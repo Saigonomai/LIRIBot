@@ -8,3 +8,6 @@ To use this app the use inputs "node liri.js" and then their identifier and thei
 * "spotify-this-song" which takes a song title as the search term and searches spotify for information on the given song
 * "movie-this" which takes movie title and provides information on the movie such as release date, actors and ratings
 * "do-what-it-says" which doesn't take any search terms and runs a provided command from the random.txt file chosen from amongst the other commands.
+
+## Example Screenshot
+![Example](https://raw.githubusercontent.com/Saigonomai/LIRIBot/master/Example.png)
